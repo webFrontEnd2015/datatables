@@ -1,5 +1,5 @@
-# datatables
-Datatable是jQuery一个强大的插件，详见https://www.datatables.net/，下面本人略总结在CodeIghiter框架的前端使用datatable的方法。
+# datatables（未完）
+Datatable是jQuery一个强大的插件，详见https://www.datatables.net/
 
 常用的配置选项：
 
