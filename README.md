@@ -22,3 +22,5 @@ Datatable是jQuery一个强大的插件，详见https://www.datatables.net/
 
 •fnDrawCallback：每次表格重画时回呼，包括翻页、排序、过滤都会触发此function，可以在此加入需要处理的操作；
 •fnPreDrawCallback：每次表格重画前回呼，可以在触发翻页、排序等操作之前进行预处理。
+
+即将更新文件
